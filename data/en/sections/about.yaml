@@ -58,17 +58,17 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 90
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 90
+  percentage: 100
   color: orange
 
 # you can also provide color code instead of the color name
