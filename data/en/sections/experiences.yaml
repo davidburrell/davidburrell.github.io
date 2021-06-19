@@ -11,54 +11,54 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: University of Florida
+    url: "https://www.math.ufl.edu"
+    location: Gainesville, FL
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Graduate Assistant
+    start: Aug 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Course Instruction (Calculus I,II,III, Precalculus, Trigonometry)
+    - Course Content Development
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+
+  - designation: Higher Mathematics Tutor
+    start: Aug 2017
+    end: Jul 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Tutored Math Majors in their Upper Level Courses
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: State College of Florida
+    url: "https://www.scf.edu"
+    location: Venice, FL
+    overview: 
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Math/Science Tutor
+    start: Aug 2015
+    end: Aug 2016
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Tutored Math 
+    - Tutored Physics
+    - Tutored Chemistry
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: US Navy
+    url: "https://www.navy.com"
+    location:
+    overview: 
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Cryptologic Technician First Class
+    start: Jul 2005
+    end: Jul 2011
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Providing in situ threat assesments and intelligence reports
+    - Developing reference material for deployed assets
+    - Leading deployment teams
+    - Training Junior Linguists
+
