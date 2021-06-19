@@ -47,18 +47,3 @@ experiences:
     - Tutored Physics
     - Tutored Chemistry
 
-- company:
-    name: US Navy
-    url: "https://www.navy.com"
-    location:
-    overview: 
-  positions:
-  - designation: Cryptologic Technician First Class
-    start: Jul 2005
-    end: Jul 2011
-    responsibilities:
-    - Providing in situ threat assesments and intelligence reports
-    - Developing reference material for deployed assets
-    - Leading deployment teams
-    - Training Junior Linguists
-
