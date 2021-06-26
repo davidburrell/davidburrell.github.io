@@ -11,9 +11,9 @@ menu:
 
 <!-- A Sample Program -->
 {{< note title="Hello World">}}
-A sample go program is show here.
+A sample C program goes here.
   
-```go
+<!-- ```go
 package main
 
 import "fmt"
@@ -33,29 +33,8 @@ Run the program as below:
 ```bash
 $ go run hello.go
 ```
+-->
+
 {{< /note >}}
 
 
-{{< note title="Variables" >}}
-**Normal Declaration:**
-```go
-var msg string
-msg = "Hello"
-```
-
----
-
-**Shortcut:**
-```go
-msg := "Hello"
-```
-{{< /note >}}
-
-
-<!-- Declaring Constants -->
-
-{{< note title="Constants" >}}
-```go
-const Phi = 1.618
-```
-{{< /note >}}

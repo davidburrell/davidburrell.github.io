@@ -9,7 +9,7 @@ menu:
     weight: 20
 ---
 
-<!-- String Type -->
+<!-- String Type 
 {{< note title="Strings" >}}
 ```go
 str := "Hello"
@@ -22,7 +22,6 @@ string`
 ```
 {{< /note >}}
 
-<!-- Number Types -->
 {{< note title="Numbers" >}}
 Typical types
 
@@ -42,7 +41,6 @@ var p float32 = 22.7  // 32-bit float
 
 {{< /note >}}
 
-<!----------- Arrays  ------>
 
 {{< note title="Arrays" >}}
 
@@ -53,7 +51,6 @@ numbers := [...]int{0, 0, 0, 0, 0}
 
 {{< /note >}}
 
-<!-- Pointers -->
 
 {{< note size="medium" title="Pointers">}}
 
@@ -78,7 +75,6 @@ Pointers point to a memory location of a variable. Go is fully garbage-collected
 
 {{< /note >}}
 
-<!-- Type Conversion -->
 
 {{< note title="Type Conversion" >}}
 
@@ -89,4 +85,4 @@ u := uint(i)
 ```
 
 {{< /note >}}
-
+-->
