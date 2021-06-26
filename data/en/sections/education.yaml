@@ -12,22 +12,24 @@ section:
 degrees:
 - name: Ph.D in Mathematics
   icon: fa-microscope
-  timeframe: 2018-2023
+  timeframe: 2021-2023
   institution:
     name: University of Florida
     url: "#"
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Graduate Mathematics Association
+  - Mentoring
+- name: M.Sc. in Mathematics
+  icon: fa-graduation-cap
+  timeframe: 2018-2021
+  institution:
+    name: University of Florida
+    url: "#"
+  publications: #(optional)
+  extracurricularActivities: #(optional)
+  - Graduate Mathematics Association
+  - Mentoring
 - name: B.Sc. in Mathematics
   icon: fa-graduation-cap
   timeframe: 2016-2018
@@ -36,7 +38,6 @@ degrees:
     url: "#"
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Student Government
+  - Mentoring
+  - Math Team
