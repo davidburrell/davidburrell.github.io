@@ -11,7 +11,7 @@ menu:
 
 <!-- String Type 
 {{< note title="Strings" >}}
-```go
+```c
 str := "Hello"
 ```
 

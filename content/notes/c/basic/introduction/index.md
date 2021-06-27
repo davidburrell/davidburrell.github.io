@@ -11,29 +11,23 @@ menu:
 
 <!-- A Sample Program -->
 {{< note title="Hello World">}}
-A sample C program goes here.
   
-<!-- ```go
-package main
+```c
+#include <stdio.h>
 
-import "fmt"
-
-func main() {
-  message := greetMe("world")
-  fmt.Println(message)
+void say_hello(void)
+{
+  char str[10] = "Hello";
+  printf("%s World",str);
 }
 
-func greetMe(name string) string {
-  return "Hello, " + name + "!"
+int main(void)
+{
+  say_hello();
+  return 0;
 }
 ```
 
-Run the program as below:
-
-```bash
-$ go run hello.go
-```
--->
 
 {{< /note >}}
 
