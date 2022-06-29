@@ -19,9 +19,9 @@ degrees:
   publications: #(optional)
   - title: On the number of groups of order 1024
     url: "https://www.tandfonline.com/doi/full/10.1080/00927872.2021.2006680"
-  - title: On the number of groups of order 3^9 (preprint)
+  - title: On the number of groups of order 3<sup>9</sup> (preprint)
     # url: "#"
-  - title: On the number of groups of order 3^8 * 2 (preprint)
+  - title: On the number of groups of order 3<sup>8</sup> * 2 (preprint)
     # url: "#"
   extracurricularActivities: #(optional)
   - Graduate Mathematics Association President
