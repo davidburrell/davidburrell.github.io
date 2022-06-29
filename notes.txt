@@ -1,0 +1,8 @@
+to make a new problem use the following command:
+
+hugo new -kind problem posts/group_theory/#
+
+where # is the number of the next problem
+
+to run a local copy run the following line from the root directory
+hugo server --theme toha --watch
