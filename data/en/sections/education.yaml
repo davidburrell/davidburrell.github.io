@@ -15,27 +15,36 @@ degrees:
   timeframe: 2021-2023
   institution:
     name: University of Florida
-    url: "#"
+    url: "https://people.clas.ufl.edu/davidburrell/"
   publications: #(optional)
+  - title: On the number of groups of order 1024
+    url: "https://www.tandfonline.com/doi/full/10.1080/00927872.2021.2006680"
+  - title: On the number of groups of order 3^9 (preprint)
+    # url: "#"
+  - title: On the number of groups of order 3^8 * 2 (preprint)
+    # url: "#"
   extracurricularActivities: #(optional)
-  - Graduate Mathematics Association
-  - Mentoring
+  - Graduate Mathematics Association President
+  - Co-Founder Professional Development Seminar
+  - Co-Founder SmallTalks Seminar
+  - Student Mentoring
 - name: M.Sc. in Mathematics
   icon: fa-graduation-cap
   timeframe: 2018-2021
   institution:
     name: University of Florida
-    url: "#"
+    url: "https://people.clas.ufl.edu/davidburrell/"
   publications: #(optional)
   extracurricularActivities: #(optional)
   - Graduate Mathematics Association
-  - Mentoring
+  - Gainesville Math Circle
+  - Student Mentoring
 - name: B.Sc. in Mathematics
   icon: fa-graduation-cap
   timeframe: 2016-2018
   institution:
     name: University of Florida
-    url: "#"
+    url: "https://people.clas.ufl.edu/davidburrell/"
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
   extracurricularActivities: #(optional)
   - Student Government

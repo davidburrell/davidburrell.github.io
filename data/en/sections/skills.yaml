@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: false
-  weight: 2
+  weight: 8
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -14,15 +14,25 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: ""
+  # summary: ""
   url: "https://www.linuxfoundation.org/"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: ""
+  # summary: ""
   url: "https://git-scm.com/"
 
 - name: C
   logo: /images/sections/skills/c.png
   summary: ""
   url: "https://en.wikipedia.org/wiki/C_(programming_language)"
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: ""
+  url: "https://en.wikipedia.org/wiki/C%2B%2B"
+
+- name: Python
+  logo: /images/sections/skills/python-logo.png
+  summary: ""
+  url: "https://www.python.org/"
