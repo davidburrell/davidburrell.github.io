@@ -25,9 +25,12 @@ degrees:
     # url: "#"
   extracurricularActivities: #(optional)
   - Graduate Mathematics Association President
+  - Graduate Committe Graduate Student Representative
+  - Co-Founder of Directed Reading Program
   - Co-Founder Professional Development Seminar
-  - Co-Founder SmallTalks Seminar
+  - Co-Founder "Simple Words" Seminar
   - Student Mentoring
+  - Teaching Assistant Training
 - name: M.Sc. in Mathematics
   icon: fa-graduation-cap
   timeframe: 2018-2021
