@@ -86,13 +86,13 @@ projects:
 
 - name: The number of p-groups of order 19,683 and new lists of p-groups
   role: Author
-  # url: "https://doi.org/10.48550/arXiv.2211.14910"
+  url: "https://doi.org/10.1080/00927872.2023.2169706"
   summary: We report on a recent classification of the groups of order 3^9 by rank and p-class which shows that there are 5,937,876,645 groups of this order. In addition, we announce the online-availability of two large families of p-groups.
   tags: ["academic","p-groups"]
 
 - name: On groups with few subgroups not in the Chermak-Delgado lattice
   role: Co-Author
-  url: "https://doi.org/10.48550/arXiv.2211.14910"
+  url: "https://doi.org/10.1007/s40598-023-00237-2"
   summary: We investigate the question of how many subgroups of a finite group are not in its Chermak-Delgado lattice. The Chermak-Delgado lattice for a finite group is a self-dual lattice of subgroups with many intriguing properties. Fasolă and Tărnăuceanu asked how many subgroups are not in the Chermak-Delgado lattice and classified all groups with two or less subgroups not in the Chermak-Delgado lattice. We extend their work by classifying all groups with less than five subgroups not in the Chermak-Delgado lattice. In addition, we show that a group with less than five subgroups not in the Chermak--Delgado lattice is nilpotent. In this vein we also show that the only non-nilpotent group with five or fewer subgroups in the Chermak-Delgado lattice is S_3.
   tags: ["academic","Chermak-Delgado"]
 

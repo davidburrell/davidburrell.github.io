@@ -20,11 +20,11 @@ degrees:
   # Kenneth and Janet Keene Endowed Fellowship recipient
   publications: #(optional)
   - title: On the number of groups of order 1024
-    url: "https://www.tandfonline.com/doi/full/10.1080/00927872.2021.2006680"
-  - title: On the number of groups of order 3<sup>9</sup> (preprint)
-    # url: "#"
-  - title: On the number of groups of order 3<sup>8</sup> * 2 (preprint)
-    # url: "#"
+    url: "https://doi.org/10.1080/00927872.2021.2006680"
+  - title: The number of p-groups of order 19,683 and new lists of p-groups
+    url: "https://doi.org/10.1080/00927872.2023.2169706"
+  - title: On groups with few subgroups not in the Chermak-Delgado lattice
+    url: "https://doi.org/10.1007/s40598-023-00237-2"
   extracurricularActivities: #(optional)
   - Graduate Mathematics Association President
   - Graduate Committe Graduate Student Representative
