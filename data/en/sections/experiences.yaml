@@ -11,6 +11,33 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Anduril Industries
+    url: "https://www.anduril.com/"
+    location: Reston, VA
+    overview: Defense technology company building autonomous systems.
+  positions:
+  - designation: Research Scientist
+    start: 2026
+    responsibilities:
+      - Algorithm research and development for autonomous defense systems.
+- company:
+    name: Metron, Inc.
+    url: "https://www.metsci.com/"
+    location: Reston, VA
+    overview: Scientific consulting firm applying advanced mathematics to defense and commercial problems.
+  positions:
+  - designation: Research Scientist
+    start: 2023
+    end: 2026
+    responsibilities:
+      - Lead algorithm developer for a multi-asset optimization engine and a weather-aware routing system supporting DoD and commercial applications.
+      - Engineered a complete algorithmic backend refactoring from Java to Rust, enhancing performance while maintaining functionality for mission-critical optimization systems.
+      - Developed novel "quickfind" approximation algorithms enabling previously intractable multi-asset optimization problems to be solved in seconds.
+      - Created a stochastic optimization framework transforming deterministic models into probabilistic systems for higher-fidelity modeling of operational uncertainty.
+      - Built a serverless routing engine on AWS Lambda that finds optimal weather-aware routes across North America using time-dependent algorithms.
+      - Implemented explainability features and algorithmic visualization components, improving system transparency and client trust in AI-driven recommendations.
+      - Delivered production capabilities to classified environments and received sponsor recognition for advanced system capabilities.
+- company:
     name: University of Florida
     url: "https://www.math.ufl.edu"
     location: Gainesville, FL
@@ -19,8 +46,7 @@ experiences:
   positions:
   - designation: Graduate Assistant
     start: Aug 2018
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: May 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
       - Responsible for teaching flipped Calculus 1 courses (Fall 2022, Fall 2021). Each course consisted of roughly 65 students.

@@ -12,10 +12,12 @@ section:
 degrees:
 - name: Ph.D in Mathematics
   icon: fa-microscope
-  timeframe: 2021-2023
+  timeframe: 2018-2023
   institution:
     name: University of Florida
     url: "https://people.clas.ufl.edu/davidburrell/"
+  # Dissertation: Computational Methods for Classification Problems in Group Theory
+  # Kenneth and Janet Keene Endowed Fellowship recipient
   publications: #(optional)
   - title: On the number of groups of order 1024
     url: "https://www.tandfonline.com/doi/full/10.1080/00927872.2021.2006680"
@@ -53,3 +55,11 @@ degrees:
   - Student Government
   - Mentoring
   - Math Team
+- name: B.Sc. in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2014
+  institution:
+    name: Full Sail University
+    url: "https://www.fullsail.edu/"
+  extracurricularActivities: #(optional)
+  - Advanced Achievement Award for academic excellence

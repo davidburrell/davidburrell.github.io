@@ -8,28 +8,32 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Graduate Assistant
+designation: Research Scientist
 # your company information
 company:
-  name: University of Florida
-  url: "https://math.ufl.edu/"
+  name: Anduril Industries
+  url: "https://www.anduril.com/"
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am passionate about teaching and researching mathematics. My current research focuses on computational group theory.'
+summary: 'I am a computational mathematician and research scientist developing high-performance optimization algorithms for mission-critical applications. I hold a PhD in Mathematics (computational group theory) and work primarily in Rust, Java, and TypeScript on stochastic optimization, distributed systems, and algorithm visualization.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "davidburrell@ufl.edu"
+  url: "mailto:davidburrell@me.com"
 
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/davidburrell"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/drdavidburrell"
 
 - name: Math.Stackexchange
   icon: "fab fa-stack-exchange"

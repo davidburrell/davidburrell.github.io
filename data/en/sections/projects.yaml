@@ -22,6 +22,18 @@ buttons:
 
 # your projects
 projects:
+- name: Multi-Asset Optimization Engine
+  role: Lead Algorithm Developer
+  timeline: "2023 - 2026"
+  summary: Multi-asset optimization engine supporting DoD and commercial applications. Led a complete backend refactoring from Java to Rust and developed "quickfind" approximation algorithms that make previously intractable multi-asset optimization problems solvable in seconds, along with a stochastic framework for modeling operational uncertainty.
+  tags: ["professional", "rust", "optimization"]
+
+- name: RV Weather Routing System
+  role: Algorithm Developer
+  timeline: "2023 - 2026"
+  summary: Serverless routing engine on AWS Lambda that finds optimal weather-aware routes across North America using time-dependent optimization algorithms with dynamic constraint handling.
+  tags: ["professional", "aws", "optimization"]
+
 - name: GAP Package GRPS1024
   logo: /images/sections/projects/gap.png
   role: Developer
@@ -29,7 +41,7 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://davidburrell.github.io/GRPS1024/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: GAP Package which provides access to the groups of order 1024 and *p*-class 3 and greater.
-  tags: ["professional", "gap", "group theory"]
+  tags: ["academic", "gap", "group theory"]
 
 - name: GAP Package GRPS382
   logo: /images/sections/projects/gap.png
@@ -38,7 +50,7 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   # url: "https://davidburrell.github.io/GRPS382/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: GAP Package which provides access to the groups of order 3<sup>8</sup>*2.
-  tags: ["professional", "gap", "group theory"]
+  tags: ["academic", "gap", "group theory"]
 - name: GAP Package GRPS39
   logo: /images/sections/projects/gap.png
   role: Developer
@@ -47,7 +59,7 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   # url: "https://davidburrell.github.io/GRPS382/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: GAP Package which provides access to the groups of order 3<sup>9</sup> and *p*-class 3 and greater.
-  tags: ["professional", "gap", "group theory"]
+  tags: ["academic", "gap", "group theory"]
 - name: GAP Package Fusion Systems
   logo: /images/sections/projects/gap.png
   role: Developer
@@ -55,7 +67,7 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: "https://davidburrell.github.io/GRPS39/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: GAP Package which provides utilities for computing with Fusion Systems.
-  tags: ["professional", "gap", "group theory", "Fusion Systems"]
+  tags: ["academic", "gap", "group theory", "Fusion Systems"]
 #- name: Tensorflow
 #  logo: /images/sections/projects/tensorflow.png
 #  role: Developer

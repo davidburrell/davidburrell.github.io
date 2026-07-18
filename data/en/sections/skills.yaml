@@ -2,8 +2,8 @@
 section:
   name: Skills
   id: skills
-  enable: false
-  weight: 8
+  enable: true
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,14 +12,39 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 
+- name: Rust
+  logo: /images/sections/skills/rust.svg
+  summary: "Production system development, algorithmic backend refactoring, high-performance computing."
+  url: "https://www.rust-lang.org/"
+
+- name: Java
+  logo: /images/sections/skills/java.svg
+  summary: "Enterprise system development, multi-threaded applications, distributed computing."
+  url: "https://www.java.com/"
+
+- name: TypeScript
+  logo: /images/sections/skills/typescript.svg
+  summary: "Full-stack development, algorithmic visualization, web applications."
+  url: "https://www.typescriptlang.org/"
+
+- name: AWS
+  logo: /images/sections/skills/aws.svg
+  summary: "Cloud infrastructure, containerized deployment, serverless computing with Lambda."
+  url: "https://aws.amazon.com/"
+
+- name: Python
+  logo: /images/sections/skills/python-logo.png
+  summary: "Scientific computing, prototyping, and data analysis."
+  url: "https://www.python.org/"
+
 - name: Linux
   logo: /images/sections/skills/linux.png
-  # summary: ""
+  summary: "Daily driver for development and deployment."
   url: "https://www.linuxfoundation.org/"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  # summary: ""
+  summary: "Version control and collaborative development."
   url: "https://git-scm.com/"
 
 - name: C
@@ -31,8 +56,3 @@ skills:
   logo: /images/sections/skills/c++.png
   summary: ""
   url: "https://en.wikipedia.org/wiki/C%2B%2B"
-
-- name: Python
-  logo: /images/sections/skills/python-logo.png
-  summary: ""
-  url: "https://www.python.org/"

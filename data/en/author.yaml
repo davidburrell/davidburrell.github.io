@@ -3,14 +3,14 @@ name: "David Burrell"
 nickname: "David"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/david.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "Davidburrell@ufl.edu"
+  email: "davidburrell@me.com"
   #phone: "+0123456789"
 
 # some summary about what you do
 summary:
-  - I am an Educator
+  - I am a Research Scientist
   - I am a Mathematician
   - I am a Programmer

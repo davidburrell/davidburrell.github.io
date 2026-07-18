@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2021 Copyright.
+copyright: © 2026 David Burrell.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 #disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
@@ -7,7 +7,7 @@ copyright: © 2021 Copyright.
 #However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of David Burrell.
+description: Portfolio and personal blog of David Burrell — research scientist and computational mathematician.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -19,6 +19,6 @@ description: Portfolio and personal blog of David Burrell.
 openGraph:
   title: David Burrell 
   type: website
-  description: Portfolio and personal blog of David Burrell.
-  image: images/author/john.png
+  description: Portfolio and personal blog of David Burrell — research scientist and computational mathematician.
+  image: images/author/david.jpg
   url: https://davidburrell.github.io
